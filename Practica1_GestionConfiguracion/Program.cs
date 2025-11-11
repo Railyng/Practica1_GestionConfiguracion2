@@ -13,7 +13,7 @@ namespace Practica1_GestionConfiguracion
 
             Console.WriteLine("\nPresiona cualquier tecla para salir...");
             Console.ReadKey();
-            Console.WriteLine("¡Práctica completada! 🚀");
+            Console.WriteLine("¡Práctica completada !🚀");
         }
     }
 }
